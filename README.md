@@ -12,7 +12,4 @@
     <img src="https://img.shields.io/badge/Website-hatsunnne.github.io-black?style=for-the-badge&logo=github"/>
   </a>
   &nbsp;
-  <a href="https://x.com/w3pxsecurity">
-    <img src="https://img.shields.io/badge/Twitter-w3pxsecurity-black?style=for-the-badge&logo=x"/>
-  </a>
 </p>
